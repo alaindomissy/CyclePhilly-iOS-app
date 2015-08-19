@@ -1,6 +1,6 @@
-Cycle Philly, 2013 Code for Philly
+Cycle San Diego, 2015 Code for San Diego
 -----------
-Philadelphia, PA. USA
+San Diego, PA. USA
 
  Contact: Corey Acri <acri.corey@gmail.com>
              Lloyd Emelle <lemelle@codeforamerica.org>
